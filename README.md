@@ -1,2 +1,2 @@
 # PrimoGhit
-Primo progetto di approccio allo sviluppo distribuito
+Primo progetto di approccio allo sviluppo distribuito.
